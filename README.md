@@ -11,7 +11,7 @@ LLM(GPT/Gemini) · Selenium/Playwright · Vision API ...
 ## Featured
 [![All Projects](https://img.shields.io/badge/All%20Projects-MyProjects-181717?logo=github)](https://github.com/seunghwan94/MyProjects)
 
-- **Gemini Cook** — Gemini API 레시피 추천 웹 앱 (Streamlit)  
+- **Gemini Cook** — Gemini API 레시피 추천 웹 앱 (Gemini API 개발자 대회 제출용)  
 - **Auto Blog Posting** *(Private/Commercial)* — LLM 자동 포스팅 솔루션 (크몽 판매/배포)  
 - **House Of Furniture** — React/Spring 풀스택 + CI/CD + 모니터링  
 - **FaceReader** — 얼굴 지표 정량화 + GPT/Gemini 해석 파이프라인  
