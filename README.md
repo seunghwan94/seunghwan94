@@ -1,7 +1,7 @@
-## 개인 프로젝트를 중심으로 개발하는 Naxa 입니다.
+## 프로젝트를 중심으로 개발하는 Naxa 입니다.
 
 Backend · AI(LLM Apps) · Automation · DevOps  
-웹 앱 → 자동화 → 배포·모니터링까지 전 과정을 다루는 프로젝트 위주로 진행
+웹 앱 → 자동화 → 배포·모니터링까지 전 과정을 다루는 프로젝트 위주로 진행합니다
 
 ## Tech
 Python/Flask · Java/Spring Boot · React/Vue · Node.js(Express/Socket.IO) · PHP(CodeIgniter)  
